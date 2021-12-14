@@ -9,7 +9,7 @@ Written by TommyHo510@gmail.com
 ## Usage - Running Jupyter notebook
 ![mybinder.org](https://mybinder.org/static/logo.svg)
 
-Go to https://binder.mybinder.ovh/{TBD}
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tommykho/notebooks/HEAD)
 
 ## Contributing
 If you are interested in contributing to the project, see CONTRIBUTING.rst.
