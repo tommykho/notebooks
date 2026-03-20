@@ -1,2 +1,32 @@
-opencv-python
+# Visualization
+plotly
 plotnine
+numpy
+
+# Computer Vision
+opencv-python
+
+# Text-to-Speech
+pyttsx3
+edge-tts
+
+# Speech Recognition / Transcription
+openai-whisper
+
+# Deep Learning / Benchmarking
+torch
+torchvision
+torchaudio
+transformers
+timm
+
+# Google Cloud
+google-cloud-vision
+
+# Benchmarking utilities
+psutil
+tabulate
+py-cpuinfo
+
+# HTTP / API
+requests
