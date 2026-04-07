@@ -47,3 +47,13 @@ If you are interested in contributing to the project, see CONTRIBUTING.rst.
 - [OpenAI Whisper](https://github.com/openai/whisper)
 - [edge-tts](https://github.com/rany2/edge-tts)
 - [OpenRouter](https://openrouter.ai/)
+
+## License
+
+This project is licensed under the [GNU General Public License v3.0 (GPL-3.0)](https://github.com/tommykho/edgetts/blob/main/LICENSE).
+
+## Support
+
+If you find this useful, consider buying me a coffee!
+
+[![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-blue?logo=paypal)](https://paypal.me/tommykho)
